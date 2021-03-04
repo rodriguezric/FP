@@ -1,12 +1,14 @@
 {
-    "name": "rodriguezric/fp",
-    "description": "A collection of FP objects for PHP.",
-    "type": "library",
-    "authors": [
-        {
-            "name": "Ricardo Rodriguez",
-            "email": "rodriguez.ric@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "rodriguezric/fp",
+  "description": "A collection of FP objects for PHP.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ricardo Rodriguez",
+      "email": "rodriguez.ric@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
 }
