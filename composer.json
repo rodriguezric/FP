@@ -2,6 +2,7 @@
   "name": "rodriguezric/fp",
   "description": "A collection of FP objects for PHP.",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "Ricardo Rodriguez",
