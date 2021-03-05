@@ -9,6 +9,11 @@
       "email": "rodriguez.ric@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-r": {
+      "Rodriguezric\\FP\\": "src/"
+    }
+  },
   "require": {
     "php": ">=5.6"
   }
